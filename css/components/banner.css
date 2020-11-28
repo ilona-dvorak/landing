@@ -1,0 +1,30 @@
+.banner {
+    background-image: url(https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NTZ8fGNvZGluZ3xlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=900&q=60);
+    background-size: cover;
+    background-position: center;
+    padding: 200px 0;
+    text-align: center;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 80px,
+  text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+}
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
+
+
+.btn-for_banner {
+    display: inline-block;
+    background-color: #6AD58B;
+    padding: 16px 36px;
+    border-radius: 50px;
+    color: white;
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.1);
+    transition: background 0.3s ease;
+}
